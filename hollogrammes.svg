@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<svg width="210mm" height="297mm" viewBox="20 20 190 277" xmlns="http://www.w3.org/2000/svg" >
+      	<!-- Des tags SVG ici .... -->
+	<title>Hollogramme</title>
+	<g transform="translate(55,25)">
+		<polygon fill="none" stroke="black" stroke-width="0.2" points="0,0,60,0,35,35,25,35" />
+	</g>
+	<g transform="translate(115,25)">
+		<g transform="rotate(71)">
+			<polygon fill="none" stroke="black" stroke-width="0.2" points="0,0,60,0,35,35,25,35" />
+		</g>
+	</g>
+	<g transform="translate(134.5,82)">
+		<g transform="rotate(142)">
+			<polygon fill="none" stroke="black" stroke-width="0.2" points="0,0,60,0,35,35,25,35" />
+		</g>
+	</g>
+	<g transform="translate(35.2,81.7)">
+		<g transform="rotate(-71)">
+			<polygon fill="none" stroke="black" stroke-width="0.2" points="0,0,60,0,35,35,25,35" />
+		</g>
+	</g>
+</svg>
+
