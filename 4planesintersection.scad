@@ -9,5 +9,12 @@
         square( size = [100,200], center=true);
         rotate( [90,0,0]) {square( size = [100,200], center=true) ; } ;
          } ;
-     }
- //}
+     };
+//}
+ translate([ 0,-50,0 ]){     
+    rotate( [ 90, 0, 0 ]){
+        color( "Red", 0.25 ){
+            square( 100, true );
+            }
+    }
+}
