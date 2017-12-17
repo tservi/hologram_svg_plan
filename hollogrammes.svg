@@ -2,6 +2,7 @@
 <svg width="210mm" height="297mm" viewBox="20 20 190 277" xmlns="http://www.w3.org/2000/svg" >
       	<!-- Des tags SVG ici .... -->
 	<title>Hollogramme</title>
+	<!--
 	<g transform="translate(55,25)">
 		<polygon fill="none" stroke="black" stroke-width="0.2" points="0,0,60,0,35,35,25,35" />
 	</g>
@@ -20,5 +21,55 @@
 			<polygon fill="none" stroke="black" stroke-width="0.2" points="0,0,60,0,35,35,25,35" />
 		</g>
 	</g>
+	-->
+	<!--
+	<g transform="translate(65,25)">
+		<polygon fill="none" stroke="black" stroke-width="0.05" points="0,0,100,0,55,60.71,45,60.71" />
+	</g>
+	<g transform="translate(165,25)">
+		<g transform="rotate(73)">
+			<polygon fill="none" stroke="black" stroke-width="0.05" points="0,0,100,0,55,60.71,45,60.71" />
+		</g>
+	</g>
+	<g transform="translate(194.25,120.75)">
+		<g transform="rotate(146)">
+			<polygon fill="none" stroke="black" stroke-width="0.05" points="0,0,100,0,55,60.71,45,60.71" />
+		</g>
+	</g>
+	<g transform="translate(35.7175,120.65)">
+		<g transform="rotate(-70.53)">
+			<polygon fill="none" stroke="black" stroke-width="0.05" points="0,0,100,0,55,60.71,45,60.71" />
+		</g>
+	</g>
+	-->
+	<!--
+	<g id="pan">
+		<polygon fill="none" stroke="black" stroke-width="0.2" points="50,70.71,0,0,100,0" />
+		<line y1="60.71" x1="40" y2="60.71" x2 ="60" stroke="black" stroke-width="0.2" />
+	</g>
+	-->
+	<g transform="translate(65,25)">
+		<g id="pan1">
+			<polygon fill="none" stroke="black" stroke-width="0.2" points="50,70.71,0,0,100,0" />
+			<line y1="60.71" x1="40" y2="60.71" x2 ="60" stroke="black" stroke-width="0.2" />
+		</g>
+		<g transform="rotate(70.53,50,70.71)">
+			<g id="pan2">
+				<polygon fill="none" stroke="black" stroke-width="0.2" points="50,70.71,0,0,100,0" />
+				<line y1="60.71" x1="40" y2="60.71" x2 ="60" stroke="black" stroke-width="0.2" />
+			</g>
+		</g>
+		<g transform="rotate(-70.53,50,70.71)">
+			<polygon fill="none" stroke="black" stroke-width="0.2" points="50,70.71,0,0,100,0" />
+			<line y1="60.71" x1="40" y2="60.71" x2 ="60" stroke="black" stroke-width="0.2" />
+		</g>
+		<g transform="rotate(141.06,50,70.71)">
+			<polygon fill="none" stroke="black" stroke-width="0.2" points="50,70.71,0,0,100,0" />
+			<line y1="60.71" x1="40" y2="60.71" x2 ="60" stroke="black" stroke-width="0.2" />
+		</g>
+	</g>
+
+	
+	
 </svg>
 
